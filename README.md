@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
+
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: 
 <!--
