@@ -1,11 +1,12 @@
 ### Hi! Welcome to my github page. 👋
-- I'm Mustafa Murat Coşkun. Computer Engineer and Instructor - Udemy
+- I'm Ulvi Memmedov. Full-Stack Software Engineer
  
 - 🌱 I’m currently learning Java
  
 # ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
 # ![Ulvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulvimemmeedov&show_icons=true)
- 
+# Development skills
+- JavaScript, Java, MongoDb, Mysql.
 - 📫 How to reach me: 
 <!--
 **ulvimemmeedov/ulvimemmeedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
