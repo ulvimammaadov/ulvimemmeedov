@@ -6,7 +6,11 @@
 # ![Ulvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulvimemmeedov&show_icons=true)
 # Development skills
 - JavaScript, NodeJs, ReactJs, Java, MongoDb, Mysql.
-# 📫 How to reach me
+
+# Contact Me 📫
+[![Linkedin Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ulvimemmeedov/)
+[![Facebook Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.facebook.com/ulvim0/)
+
 
 <!--
 **ulvimemmeedov/ulvimemmeedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
