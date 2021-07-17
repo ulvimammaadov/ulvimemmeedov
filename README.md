@@ -1,4 +1,4 @@
-### Hi! Welcome to my github page. 👋
+### Hi! 👋
 - I'm Ulvi Memmedov. Full-Stack Software Engineer
 - 🌱 I’m currently learning Java
  
