@@ -8,8 +8,8 @@
 - JavaScript, NodeJs, ReactJs, Java, MongoDb, Mysql.
 
 # Contact Me 📫
-[![Linkedin Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ulvimemmeedov/)
-[![Facebook Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.facebook.com/ulvim0/)
+[![Linkedin Badge](https://img.shields.io/badge/ulvimemmeedov-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ulvimemmeedov/)
+[![Facebook Badge](https://img.shields.io/badge/ulvimemmeedov-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.facebook.com/ulvim0/)
 
 
 <!--
