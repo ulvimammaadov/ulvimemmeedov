@@ -3,8 +3,8 @@
  
 - 🌱 I’m currently learning Java
  
-- ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
-- ![Ulvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulvimemmeedov&show_icons=true)
+# ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
+# ![Ulvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulvimemmeedov&show_icons=true)
  
 - 📫 How to reach me: 
 <!--
