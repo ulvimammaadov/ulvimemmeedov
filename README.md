@@ -5,7 +5,7 @@
 # ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
 # ![Ulvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulvimemmeedov&show_icons=true)
 # Development skills
-- JavaScript, NodeJs, ReactJs, Java, MongoDb, Mysql.
+- JavaScript, NodeJs, ExpressJs, ReactJs, Java, MongoDb, Mysql.
 
 # Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/badge/ulvimemmeedov-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ulvimemmeedov/)
