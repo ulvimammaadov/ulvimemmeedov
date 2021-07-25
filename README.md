@@ -1,5 +1,5 @@
 ### Hi! 👋
-- I'm Ulvi Memmedov. Full-Stack Software Engineer
+- I'm Ulvi Memmedov. Software Engineer
 - 🌱 I’m currently learning Java
  
 # ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
