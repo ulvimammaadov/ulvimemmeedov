@@ -1,6 +1,5 @@
 ### Hi! 👋
 - I'm Ulvi Memmedov. Software Engineer
-- 🌱 I’m currently learning Java
  
 # ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
 ![Ulvi's Most Used](https://github-readme-stats.vercel.app/api/top-langs?username=ulvimemmeedov&show_icons=true&locale=en&layout=compact)
