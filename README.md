@@ -1,9 +1,9 @@
 ### Hi! 👋
 - I'm Ulvi Memmedov.
+- I like orange juice.
  
 # ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
 ![Ulvi's Most Used](https://github-readme-stats.vercel.app/api/top-langs?username=ulvimemmeedov&show_icons=true&locale=en&layout=compact)
- ![Ulvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulvimemmeedov&show_icons=true)
 
 
 # Contact Me 📫
@@ -23,9 +23,9 @@
 <!-- <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <br />
-<br /
+<!-- <br / -->
 ###
-<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulvimemmeedov" alt="ulvimemmeedov" /></a></p>
+<!-- <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulvimemmeedov" alt="ulvimemmeedov" /></a></p> -->
 
 
 
