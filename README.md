@@ -4,10 +4,11 @@
  
 # ![Profile Views](https://komarev.com/ghpvc/?username=ulvimemmeedov)
 
-
 # Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/badge/ulvimemmeedov-connect%20with%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ulvimemmeedov/)
 [![Facebook Badge](https://img.shields.io/badge/ulvimemmeedov-follow%20on%20facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/ulvim0/)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=am019tpcu5ompeyh1hy47xmqg&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # Development skills
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
